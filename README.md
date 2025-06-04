@@ -1,3 +1,6 @@
+Robert Griffaton - Crete
+
+
 # Application pour calculer l'IMC
 
 ## C'est quoi l'indice de masse corporel IMC ?
